@@ -1,0 +1,15 @@
+/*-
+ *  COPYRIGHT (C) 1986 Gary S. Brown.  You may use this program, or
+ *  code or tables extracted from it, as desired without restriction.
+ */
+/*
+ * Copyright (c) 2004-2006 Intel Corporation - All Rights Reserved
+ *
+ *
+ * This software program is licensed subject to the BSD License, available at
+ * http://www.opensource.org/licenses/bsd-license.html.
+ *
+ * Abstract:
+ *
+ * Tables for software CRC generation
+ */
