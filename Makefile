@@ -1,6 +1,8 @@
 bin:
 	cargo build --release
 clean:
+	cargo clean --release -p icrc32
+clean_all:
 	cargo clean
 fmt:
 	cargo fmt
